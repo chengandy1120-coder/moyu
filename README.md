@@ -2,6 +2,8 @@
 
 A little piece of nature on your Mac desktop.
 
+![Moyu’s Jiangnan woodland stream](images/jiangnan.webp)
+
 Cast a line between things. Watch the float, play a heavier fish, and discover the creatures and small surprises waiting beneath the water.
 
 ## Overseas public beta
