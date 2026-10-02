@@ -18,6 +18,12 @@ CC0: https://creativecommons.org/publicdomain/zero/1.0/
 - Joseph SARDIN, Wind in a Tree #0659: https://bigsoundbank.com/wind-in-a-tree-s0659.html
 - leah15, Leaves rustling.wav: https://freesound.org/people/leah15/sounds/191454/
 
+- Harrisando, reel: https://freesound.org/people/Harrisando/sounds/466205/
+- egomassive, frog: https://freesound.org/people/egomassive/sounds/536759/
+- Haasenstein, bell: https://freesound.org/people/Haasenstein/sounds/502898/
+- BenjaminNelan, wood: https://freesound.org/people/BenjaminNelan/sounds/321083/
+- CapsLok, ratchet: https://freesound.org/people/CapsLok/sounds/181634/
+
 Recordings have been edited, filtered, mixed, looped or retimed for the game.
 
 ## Share-alike photographic references and illustrations
